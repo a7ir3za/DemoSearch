@@ -21,21 +21,21 @@ $ cd DemoSearch
 $ go run . -h
 Usage of /var/folders/8w/tjs_qsdj4x3b8y8ycn2cfb680000gn/T/go-build269568008/b001/exe/Demo:
   -BFS
-        Do a BFS search (otherwise DFS)
-  -drawGrid
-        Only draw Grid & exit!
+    	Do a BFS search (otherwise DFS)
+  -drawMaze
+    	Only draw the maze & exit!
   -exits int
-        Number of doors to get out of maze (default 16)
+    	Number of doors to get out of maze (default 16)
   -i int
-        Start poition's row (default 5)
+    	Ghosty's start row, between 2 & m-1 (default 5)
   -j int
-        Start poition's column (default 26)
+    	Ghosty's start column, between 2 & n-1 (default 26)
   -m int
-        Number of rows in the Grid (default 10)
+    	Number of rows in the maze (default 10)
   -n int
-        Number of columns in the Grid (default 48)
+    	Number of columns in the maze (default 48)
   -walls int
-        Extra bricks inside of maze (default 128)
+    	Extra bricks inside of maze (default 128)
 ```
 
 # Run (binary produced by build in Build above)
