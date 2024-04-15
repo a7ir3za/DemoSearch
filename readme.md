@@ -1,5 +1,8 @@
 # DemoSearch
-BFS/DFS Search Demo - Terminal Vs iTerm2 
+BFS/DFS Search Demo - Terminal Vs iTerm2:
+
+<img width="905" alt="Screenshot 2024-04-15 at 01 22 12" src="https://github.com/a7ir3za/DemoSearch/assets/91642447/ea53ed40-4288-4fa4-8a60-a32959323b84">
+
 
 # Why?
 This was supposed to be a benchmark test for Terminal and iTerm2, but DFS/BFS searches are fun! So it demos how a clever! ghost finds its way in a maze. All and all I think I carry on using Terminal as I find iTerm2 a tiny bit slower for unicode (however it has lots of good features and even more to customize!)
